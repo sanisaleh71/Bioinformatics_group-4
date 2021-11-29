@@ -42,8 +42,8 @@ GROUP MEMBERS :-
 
 TABULAR FORM OF GROUP MEMBERS AND PREPARED PROGRAMMING LANGUAGE.
 
-| First Header  | Second Header |Second Header |
+| S/N  | Second Header |Second Header |
 | ------------- | ------------- |------------- |
-| Content Cell  | Content Cell  | Content Cell |
-| Content Cell  | Content Cell  |Content Cell  |
+| 1  | Sani Saleh  | R |
+| 2  | Sulaiman Kabir AAbdullahi  | R  |
 
