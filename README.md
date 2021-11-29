@@ -42,21 +42,7 @@ GROUP MEMBERS :-
 
 TABULAR FORM OF GROUP MEMBERS AND PREPARED PROGRAMMING LANGUAGE.
 
- | S/N    | NAME                | P- LANG  |
- | 1      | Bullet Bob          | 56:07   |
- | 2      | Clumsy Colin        | DNF     |
- | 3      | Swift Susan         | 55:13 |
- | 4      | Bullet Bob          | 56:07 |
- | 5      | Clumsy Colin        | DNF   |
- | 6      | Swift Susan         | 55:13 |
- | 7      | Bullet Bob          | 56:07 |
- | 8      | Clumsy Colin        | DNF   |
- | 9      | Swift Susan         | 55:13 |
- | 10     | Bullet Bob          | 56:07 |
- | 11     | Clumsy Colin        | DNF   |
- | 12     | Swift Susan         | 55:13 |
- | 13     | Bullet Bob          | 56:07 |
- | 14     | Clumsy Colin        | DNF   |
- | 15     | Swift Susan         | 55:13 |
-
-
+ | Number | Rider        |
+ | 1      | Bullet Bob   |
+ | 2      | Clumsy Colin |
+ | 3      | Swift Susan  |
