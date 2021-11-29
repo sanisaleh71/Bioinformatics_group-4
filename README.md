@@ -42,7 +42,7 @@ GROUP MEMBERS :-
 
 TABULAR FORM OF GROUP MEMBERS AND PREPARED PROGRAMMING LANGUAGE.
 
-| S/N  | Second Header |Second Header |
+| S/N  | NAMES |PROGRAMMING LANGUAGE USED |
 | ------------- | ------------- |------------- |
 | 1  | Sani Saleh  | R |
 | 2  | Sulaiman Kabir Abdullahi  | R  |
