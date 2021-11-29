@@ -67,4 +67,34 @@ TABULAR FORM OF GROUP MEMBERS AND PREPARED PROGRAMMING LANGUAGE.
 ![IMG_20190712_081218_3](https://user-images.githubusercontent.com/95065173/143876683-88b4f571-c6fe-4419-9c22-eea03c9ed01e.jpg)
 
 Sani Saleh
+![Alawiyya](https://user-images.githubusercontent.com/95065173/143878492-02c27504-009e-4fac-ad83-58e60209cae5.jpg)
+
+Alawiyya Alkasim
+![Enoch](https://user-images.githubusercontent.com/95065173/143878498-5198ff00-62bf-47aa-9d1e-a2a7c548724d.jpg)
+
+Halan Enoch Arewa
+![Ibrahim](https://user-images.githubusercontent.com/95065173/143878507-d93dcea9-12d9-43f6-86d2-ca7bce738188.jpg)
+
+Ibrahim Musa
+![Natha](https://user-images.githubusercontent.com/95065173/143878534-cd87e825-b3fb-4f78-bb5e-c33fd2bd35b6.jpg)
+
+Nathaniel Thompson
+![Ontop](https://user-images.githubusercontent.com/95065173/143878547-282ed8c9-d45a-4717-8aa0-3f89decbb1ef.jpg)
+
+Umar Nasir Adamu
+![Ragwaza](https://user-images.githubusercontent.com/95065173/143878559-7d8dd26e-65d5-42f8-bdf9-58a1ea6122b3.jpg)
+
+Bashir Abdullahi
+![Sman](https://user-images.githubusercontent.com/95065173/143878563-8a9d9beb-ffd5-47b7-9f77-35406fcb2cc3.png)
+
+Sulaiman Kabir Abdullahi
+![Sulaiman](https://user-images.githubusercontent.com/95065173/143878589-868d9b74-9e19-4749-bb94-552cec8189ae.jpg)
+
+Sulaiman Yakubu Bashir
+![Umar](https://user-images.githubusercontent.com/95065173/143878601-7964e292-9890-41a5-b130-8b66db7b5a85.jpg)
+
+Umar Ali Buba
+![Abdul](https://user-images.githubusercontent.com/95065173/143878607-653cd6a5-9c8f-4b3f-bda0-d4f2003b137d.jpg)
+
+Abdulrahman Zakariyya Ahmad
 
