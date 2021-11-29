@@ -42,7 +42,7 @@ GROUP MEMBERS :-
 
 TABULAR FORM OF GROUP MEMBERS AND PREPARED PROGRAMMING LANGUAGE.
 
-| Number | Rider        | Time  |
-| 1      | Bullet Bob   | 56:07 |
-| 2      | Clumsy Colin | DNF   |
-| 3      | Swift Susan  | 55:13 |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
