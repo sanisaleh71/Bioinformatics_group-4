@@ -71,6 +71,5 @@ TABULAR FORM OF GROUP MEMBERS AND PREPARED PROGRAMMING LANGUAGE.
 First of all I would like to thank almighty ALLAH for his mercy that lead us to compiled and comleted our first CA in bioinformatics, and also a special thank to sulaiman kabir abdullahi he who sacrifice his resources to progress our work as group which is not necessary for him alone.
 and also special dua to my parent and all my family for their contribution in respect to be patint while conducting the CA assignment'
 
-## HELP
 
 
