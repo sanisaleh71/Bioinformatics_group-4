@@ -1,4 +1,4 @@
-# Bioinformatics_group-4.
+# GROUP 4 (BIOINFORMATICS)
 
 This group was created for the collection of script from all group members .
 
