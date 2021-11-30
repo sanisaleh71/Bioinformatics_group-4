@@ -16,7 +16,7 @@ GROUP MEMBERS :-
 
 2 - Sulaiman Kabir Abdullahi.
 
-3 - Nasiru Adamu Umar.
+3 - Nasir Adam Umar.
 
 4 - Bashir Ahmad.
 
@@ -49,7 +49,7 @@ TABULAR FORM OF GROUP MEMBERS AND PREPARED PROGRAMMING LANGUAGE.
 | 2  | Sulaiman Kabir Abdullahi  | R  |
 | 3  | Umar Ali Buba  | Java  |
 | 4  | Abdulmalik Kabiru | Bash  |
-| 5  | Nasiru Adamu Umar  | Python  |
+| 5  | Nasir Adam Umar  | Python  |
 | 6  | Bashir Ahmad  | Python  |
 | 7  | Sulaiman Y Bashir  | PHP  |
 | 8  | Halan Enoch Arewa  | C++  |
