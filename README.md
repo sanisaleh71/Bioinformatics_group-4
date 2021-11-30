@@ -98,6 +98,10 @@ TABULAR FORM OF GROUP MEMBERS AND PREPARED PROGRAMMING LANGUAGE.
 
 ![Abdul](https://user-images.githubusercontent.com/95065173/143878607-653cd6a5-9c8f-4b3f-bda0-d4f2003b137d.jpg)
 
+## WORKFLOW
+
+![workflow](https://user-images.githubusercontent.com/95065173/144019907-1b741c6d-a26b-41e4-a4d4-b8408b9aaa05.jpg)
+
 # ACKNOWLEDGEMENT.
 
 First of all I would like to thank almighty ALLAH for his mercy that lead us to compiled and comleted our first CA in bioinformatics, and also a special thank to sulaiman kabir abdullahi he who sacrifice his resources to progress our work as group which is not necessary for him alone.
