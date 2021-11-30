@@ -4,7 +4,7 @@ This group was created for the collection of script from all group members .
 
 # ESSENTIAL INFORMATION ABOUT BIOINFORMATICS.
 
-BIOINFORMATICS__ today in world become the most famours field of sciences that deals with application of computational and statisticaal techniques to biological data processing and analysis , particularly in genomics 
+BIOINFORMATICS__ today in world become the most famous field of sciences that deals with application of computational and statisticaal techniques to biological data processing and analysis , particularly in genomics 
 
 ## QUESTIONS
 
