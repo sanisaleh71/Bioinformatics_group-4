@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <html>
 <title> Bioinformatic Assignment </title>
 <style= text/javascript>
