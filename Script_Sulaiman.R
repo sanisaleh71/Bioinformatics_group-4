@@ -1,3 +1,4 @@
+#!/usr/local/bin/R
 # date__28/11/2021
 # NAME__sulaiman kabir Abdullahi
 # Email__sulaimankabirabdullahi01@gmail.com
