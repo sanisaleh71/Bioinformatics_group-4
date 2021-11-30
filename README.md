@@ -52,10 +52,10 @@ TABULAR FORM OF GROUP MEMBERS AND PREPARED PROGRAMMING LANGUAGE.
 | 6  | Bashir Ahmad  | Python  |
 | 7  | Sulaiman Y Bashir  | PHP  |
 | 8  | Halan Enoch Arewa  | C++  |
-| 9  | Abdurrahman Zakariya Ahmad  | Javascript  |
+| 9  | Abdurrahman Zakariya Ahmad  | html  |
 | 10 | Alawiyya Alkasim Ismail  | PHP  |
-| 11  | Abba Adamu  | Content Cell  |
-| 12  | Ibrahim Musa  | Content Cell  |
+| 11  | Abba Adamu  |  |
+| 12  | Ibrahim Musa  | python  |
 | 13  | Aisha Ibrahim Gagarau  | Java  |
 | 14  | Nathaniel Thompson  | C++  |
 
