@@ -6,8 +6,9 @@ This group was created for the collection of script from all group members .
 
 BIOINFORMATICS__ today in world become the most famous field of scinces that deals with application of computational and statisticaal techniques to biological data processing and analysis , particularly in genomics 
 
-## question 
-every group member should use one of the programming language to write a script that can print his/her name, email, slack ID and their area of interst in field of bioinformatics.
+## QUESTIONS
+
+Every group member should use one of the programming language to write a script that can print his/her name, email, slack ID and their area of interst in field of bioinformatics.
 
 GROUP MEMBERS :- 
 
