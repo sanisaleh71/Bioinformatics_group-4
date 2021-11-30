@@ -1,3 +1,4 @@
+#!/usr/bin/env python 
 #<-----------Abdullahi Project------------>
 print("\t-------------BIOINFORMATICS SCRIPT---------------\n")
 
