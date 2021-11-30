@@ -54,7 +54,7 @@ TABULAR FORM OF GROUP MEMBERS AND PREPARED PROGRAMMING LANGUAGE.
 | 8  | Halan Enoch Arewa  | C++  |
 | 9  | Abdurrahman Zakariya Ahmad  | html  |
 | 10 | Alawiyya Alkasim Ismail  | PHP  |
-| 11  | Abba Adamu  |  | python |
+| 11  | Abba Adamu  | python  |
 | 12  | Ibrahim Musa  | python  |
 | 13  | Aisha Ibrahim Gagarau  | Java  |
 | 14  | Nathaniel Thompson  | C++  |
